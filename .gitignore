@@ -1,0 +1,6 @@
+data/
+stanford-corenlp-4.1.0/
+log/
+.vscode/
+.data/
+__pycache__
